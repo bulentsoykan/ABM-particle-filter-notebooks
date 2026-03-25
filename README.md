@@ -46,7 +46,7 @@ No installation needed — click any badge below to run in Google Colab.
 
 ### Module 5 — Curse of Dimensionality
 - Why collisions grow O(N^1.7) with agent count
-- Error heatmap over (N_agents, N_particles) — reproduction of paper Figure 5
+- Error heatmap over (N_agents, N_particles) 
 - Why the Kalman Filter fails for ABMs (non-linear, non-Gaussian state distribution)
 
 ---
